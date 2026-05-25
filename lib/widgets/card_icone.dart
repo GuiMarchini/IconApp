@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '../pages/tela_perfil.dart';
 
 class CardIcone extends StatefulWidget{
   final IconData icone;
